@@ -1,6 +1,7 @@
 # DeepInterestGR
 
 ## Pipeline
+- Due to the anonymity requirements of the ACL Rolling Review (ARR) process, this repository currently provides an executable demonstration of the main DeepInterestGR pipeline only; the complete training/reproduction scripts, configurations, and releasable assets will be published upon acceptance, subject to model and data licenses.
 
 ![DeepInterestGR Pipeline](DeepinterestGR.png)
 
